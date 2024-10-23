@@ -24,6 +24,10 @@ export default function Counter() {
 
     return (
         <div style={{ textAlign: 'center' }}>
+            <h1>
+                useState Hook Example:
+
+            </h1>
             <h1>Counter :{count}</h1>
             <button onClick={() => counterChange('increase')}>Increase</button>
             <button onClick={() => counterChange('decrease')}>Decrease</button>
