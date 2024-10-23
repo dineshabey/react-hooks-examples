@@ -176,9 +176,6 @@ We welcome contributions! Follow these steps to contribute:
 ---
 
 
-
----
-
 ## 📧  Contact  
 
 👋 Hi, I'm Dinesh Abeysinghe
