@@ -42,7 +42,7 @@ react-hooks-playground/
 
 1.  Clone the repository :  
    ```bash
-   git clone https://github.com/yourusername/react-hooks-playground.git
+   git clone https://github.com/dineshabey/react-hooks-examples.git
    ```
 2.  Navigate to the project folder :  
    ```bash
