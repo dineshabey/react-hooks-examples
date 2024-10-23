@@ -1,7 +1,3 @@
-Here’s your  enhanced README.md  file with emojis and appropriate headers:
-
----
-
 # 🎯  React Hooks Playground   
 Explore and learn the magic of  React Hooks  through hands-on examples! This project features a  Counter app  and a  custom data-fetching hook  to help you understand `useState` and `useEffect`.  
 
