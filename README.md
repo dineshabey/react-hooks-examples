@@ -154,7 +154,7 @@ export default FetchExample;
 ## 🌐  Live Demo & Code   
 
 -  [Demo Coming Soon!](#)   
--  Download Code  from the [GitHub repository](https://github.com/yourusername/react-hooks-playground).  
+-  Download Code  from the [GitHub repository](https://github.com/dineshabey/react-hooks-examples.git).  
 
 ---
 
@@ -183,11 +183,31 @@ We welcome contributions! Follow these steps to contribute:
 
 ---
 
-## 📧  Contact   
+## 📧  Contact  
 
-Got questions or feedback? Feel free to reach out!  
+👋 Hi, I'm Dinesh Abeysinghe
 
--  LinkedIn : [Connect with me](www.linkedin.com/in/dinesh-abeysinghe-bb773293/)  
+⚡ Got questions or feedback? Feel free to reach out!  
+💻 Need software developed? Feel free to contact me to bring your ideas to life!
+
+<div align="center">
+<a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+<a href="mailto:dinabeysinge@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
+
+<a href="https://huggingface.co/dineshabeysinghe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFAA00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="huggingface logo" />
+</a>
+
+<a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FutureAIToday&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+</div>
 
 ---
 
